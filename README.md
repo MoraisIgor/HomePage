@@ -19,4 +19,14 @@ Thanks
 
 * [@n33co](https://twitter.com/n33co)
 
+
+Contact
+-------
+
+[My HomePage](http://igormorais.com) :)
+
+
+License
+-------
+
 [1]: https://raw.githubusercontent.com/MoraisIgor/HomePage/master/raw/web.png
