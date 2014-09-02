@@ -14,4 +14,9 @@ You can clone this repository like this.
 Enter in the project folder and open the file `index.html`.
 
 
+Thanks
+------
+
+* [@n33co](https://twitter.com/n33co)
+
 [1]: https://raw.githubusercontent.com/MoraisIgor/HomePage/master/raw/web.png
