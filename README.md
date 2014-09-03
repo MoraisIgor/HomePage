@@ -23,7 +23,8 @@ Thanks
 Contact
 -------
 
-[My HomePage](http://igormorais.com) :)
+* [GitHub Page](http://moraisigor.github.io)
+* [Home Page](http://igormorais.com)
 
 
 License
