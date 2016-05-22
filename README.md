@@ -1,5 +1,4 @@
-![1] Home Page
-==============
+# ![1] My Page
 
 This project contains all the source code and resources from my personal page.
 
