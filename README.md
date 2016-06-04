@@ -18,7 +18,7 @@ Enter in the project folder and open the file `index.html`.
 Thanks
 ------
 
-* [@n33co](https://twitter.com/n33co)
+* [@Aj](https://twitter.com/ajlkn)
 
 
 Contact
