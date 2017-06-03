@@ -1,35 +1,5 @@
-# ![1] Land
+# Land
 
-This project contains all the source code and resources from my personal page.
-
-You can see the page here [igormorais.com](http://igormorais.com).
-
-
-Setup
------
-
-You can clone this repository like this.
-
-`git clone https://github.com/MoraisIgor/HomePage.git`
-
-Enter in the project folder and open the file `index.html`.
-
-
-Thanks
-------
-
-* [@Aj](https://twitter.com/ajlkn)
-
-
-Contact
--------
-
-* [GitHub Page](http://moraisigor.github.io)
-* [Home Page](http://igormorais.com)
-
-
-License
--------
 
 ```
     THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS PUBLIC
@@ -42,6 +12,3 @@ License
     LICENSOR GRANTS YOU THE RIGHTS CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH
     TERMS AND CONDITIONS.
 ```
-
-
-[1]: https://raw.githubusercontent.com/MoraisIgor/HomePage/master/raw/web.png
